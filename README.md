@@ -3,6 +3,10 @@
 
 This repository for git setup, training, educational uses
 
+
+##### Clone this project from git
+`clone git@github.com:BreakthroughBehavioralInc/git_training.git`
+
 ######Setup your teminal prompt:
 
 Use vi in teminal:
