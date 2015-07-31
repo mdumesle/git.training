@@ -54,8 +54,11 @@ This is shorthand for:
 `vim index.html`
 `git commit -a -m 'added a new footer [issue 53]'`
 
-`$ git checkout master`
-`Switched to branch 'master'`
+`$ git checkout test_branch`
+`Switched to branch 'test_branch'`
+
+`$ git merge master` `pull into master`
+
 
 
 
