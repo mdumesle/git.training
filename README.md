@@ -32,6 +32,14 @@ export PROMPT_COMMAND='echo -ne "\033]0;${PWD/#$HOME/~}\007"'
 
 Navigate to git repo dirctory
 
+#To see git log
+
+`git log --oneline --decorate --graph --all`
+
+#To see status
+
+`git status`
+
 
 
 
