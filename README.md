@@ -63,6 +63,9 @@ This is shorthand for:
 
 `$ git merge master` `pull into master`
 
+Send brunch to gitHub
+
+`git push -u origin feature_branch_name`
 
 
 
