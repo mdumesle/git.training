@@ -82,7 +82,8 @@ update your branch when you end with lastest master
 Switched to branch 'master'
 Your branch is up-to-date with 'origin/master'.
 [git_training (master)]$ git branch -d small-123
-
+--
+insert
 
 --
 edit README.md > esc > : > wq/q! 
