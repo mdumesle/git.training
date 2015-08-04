@@ -68,9 +68,13 @@ Send brunch to gitHub
 `git push -u origin feature_branch_name`
 
 
+--
+before code review 
+update your branch when you start with latest master
+update your branch when you end with lastest master
 
 
-
+--
 
 
 
