@@ -87,3 +87,19 @@ insert
 
 --
 edit README.md > esc > : > wq/q! 
+--
+hello
+--
+u
+v
+t
+s
+r
+q
+hello
+small-08052015
+<<<<<<< HEAD
+is that better
+=======
+small-080520151
+>>>>>>> master
