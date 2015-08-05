@@ -98,4 +98,8 @@ r
 q
 hello
 small-08052015
+<<<<<<< HEAD
+is that better
+=======
 small-080520151
+>>>>>>> master
