@@ -52,18 +52,18 @@ Switched to a new branch "iss53"
 
 This is shorthand for:
 
-`$ git branch test_branch`
+`$ git branch test_branch` and 
 `$ git checkout test_branch`
 ######You work on your web site and do some commits. Doing so moves the iss53 branch forward, because you have it checked out ######(that is, your HEAD is pointing to it):
 `vim index.html`
 `git commit -a -m 'added a new footer [issue 53]'`
 
 `$ git checkout test_branch`
-`Switched to branch 'test_branch'`
+(Switched to branch 'test_branch')
 
-`$ git merge master` `pull into master`
+`$ git merge master` (merge master into current branch)
 
-Send brunch to gitHub
+Send branch to gitHub
 
 `git push -u origin feature_branch_name`
 
