@@ -1,2 +1,2 @@
-put "hello git"
+puts "hello git"
 
