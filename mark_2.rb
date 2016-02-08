@@ -31,3 +31,5 @@ puts name.delete "ar"
 puts name.delete "a-kr"
 puts name.delete "ark"
 puts name.count "alee"
+
+a.replace "hi"
